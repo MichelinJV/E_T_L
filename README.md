@@ -20,10 +20,10 @@ No terceiro e último passo do processo, é preciso fazer o carregamento dos dad
 Os projetos depositados aqui são:
 
 <a href="https://github.com/MichelinJV/E_T_L/blob/master/ETL_API_MySQL.ipynb">ETL_API_MySQL: </a>
-Criar um pipeline ETL onde retiramos dados de um API da NASA sobre ejeção de massa coronal, transformamos e limpamos os dados em uma nova tabela e, 
-por último, carregamos os dados no banco de dados MySQL.
+Pipeline de ETL onde dados de um API da NASA sobre ejeção de massa coronal foram retirados, transformamos, limpos em uma nova tabela e, 
+por último, salvos no banco de dados MySQL.
 
 
 <a href="https://github.com/MichelinJV/E_T_L/blob/master/ETL_with_MySQL.ipynb">ETL_with_MySQL: </a>
-O objetivo é projetar um pipeline ETL que seja simples mas eficiente, onde criamos tabelas no MySQL com informações sobre os empregados de uma empresa, 
-extraímos os dados do banco de dados, transformamos ou limpar os dados usando vários métodos do Pandas e carregamos os dados transformados ou limpos novamente no banco de dados MySQL.
+Projetar de um pipeline ETL simples mas eficiente. É criado tabelas no MySQL com informações sobre os empregados de uma empresa.
+Os dados entãpo são extraídos do banco de dados, transformamos e reestruturados usando vários métodos do Pandas e, por fim, carregados novamente no banco de dados MySQL.
