@@ -24,6 +24,6 @@ Pipeline de ETL onde dados de um API da NASA sobre ejeção de massa coronal for
 por último, salvos no banco de dados MySQL.
 
 
-<a href="https://github.com/MichelinJV/E_T_L/blob/master/ETL_with_MySQL.ipynb">ETL_with_MySQL: </a>
+<a href="https://github.com/MichelinJV/E_T_L/blob/master/ETl_with_MySQL.ipynb">ETL_with_MySQL: </a>
 Projetar de um pipeline ETL simples mas eficiente. É criado tabelas no MySQL com informações sobre os empregados de uma empresa.
 Os dados entãpo são extraídos do banco de dados, transformamos e reestruturados usando vários métodos do Pandas e, por fim, carregados novamente no banco de dados MySQL.
