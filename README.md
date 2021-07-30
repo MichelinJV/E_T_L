@@ -17,10 +17,10 @@ O objetivo é levar para a análise apenas aquilo que será efetivamente aprovei
 
 No terceiro e último passo do processo, é preciso fazer o carregamento dos dados já organizados em um novo repositório.
 
-Os projetos depositados aqui são:
+Projetos exitentes nesse repositório:
 
 <a href="https://github.com/MichelinJV/E_T_L/blob/master/ETL_API_MySQL.ipynb">ETL_API_MySQL: </a>
-Pipeline de ETL onde dados de um API da NASA sobre ejeção de massa coronal foram retirados, transformamos, limpos em uma nova tabela e, 
+Pipeline de ETL onde dados de um API da NASA sobre ejeção de massa coronal foram extraídos, transformamos, limpos em uma nova tabela e, 
 por último, salvos no banco de dados MySQL.
 
 
